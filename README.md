@@ -44,16 +44,17 @@ npm run start
 
 ## หลักฐานผลลัพธ์
 
-อธิบายผลลัพธ์ พร้อมแนบภาพหน้าจอหรือข้อความผลลัพธ์ตามที่ใบงานกำหนด
+![alt text](image-1.png)
+
 
 ## ปัญหาที่พบและวิธีแก้ไข
 
-- ปัญหา: 
-- วิธีแก้:
+- ปัญหา: - 
+- วิธีแก้: -
 
 ## References & AI Assistance
 
-- Source / Documentation:
+- Source / Documentation: https://github.com/se-rmutl/engse203-lab/tree/main/labs/week-01-developer-environment-git-github
 - AI tool used:
 - Used for:
 - My adaptation:
